@@ -18,8 +18,12 @@ Pages.login = () => {
         <div class="small muted">
           Demo accounts (after seeding):<br>
           <b>ADMIN:</b> admin@scms.com / Admin@123 <br>
-          <b>STAFF:</b> maint@scms.com / Staff@123 <br>
-          <b>USER :</b> rahul@scms.com / User@123
+          <b>MAINT STAFF:</b> maint@scms.com / Staff@123 <br>
+          <b>IT STAFF:</b> it@scms.com / Staff@123 <br>
+          <b>USER :</b> rahul@scms.com / User@123  <br>
+        
+          
+          
         </div>
         <div class="spacer"></div>
         <a href="#/register">Don't have an account? Register</a>
