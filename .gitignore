@@ -1,0 +1,13 @@
+node_modules/
+backend/.env
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+ai-service/.venv/
+ai-service/__pycache__/
+ai-service/**/__pycache__/
+ai-service/models/*.pt
+ai-service/models/*.bin
+*.pyc
+
+.DS_Store
